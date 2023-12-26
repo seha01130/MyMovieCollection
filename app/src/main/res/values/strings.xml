@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyMovieCollection</string>
+    <string name="kobis_url">http://www.kobis.or.kr/</string>
+    <string name="kobis_key">1cd216449610bb492cefccb6aa07b69c</string>
+    <string name="image_url">https://m.segye.com/content/image/2022/10/14/20221014514371.jpg</string>
+</resources>
